@@ -6,4 +6,4 @@ Public, versioned downloads for the TV Overlay Google TV / Android TV app.
 - [Latest APK](https://github.com/daily25/tv-overlay-downloads/releases/latest/download/tv-overlay.apk)
 
 Version 1.0.1 SHA-256:
-`9fc5986dcb953984ef9917889152a72ff1b42d7b8ec8aeb0b9d4e15815e17655`
+`f15523c0b5dbd6504d2b9aabc8fe231395d86f75fe041325dd53d032324e577e`
