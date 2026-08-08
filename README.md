@@ -4,11 +4,11 @@ Public, versioned downloads for the TV Overlay Google TV / Android TV app and
 its native Android phone companion.
 
 - [Download page](https://daily25.github.io/tv-overlay-downloads/)
-- [Latest TV APK](https://github.com/daily25/tv-overlay-downloads/releases/download/v1.6.21/tv-overlay-1.6.21.apk)
-- [Phone companion APK](https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.2.7/tv-overlay-companion-v0.2.7.apk)
+- [Latest TV APK](https://github.com/daily25/tv-overlay-downloads/releases/download/v1.6.22/tv-overlay-1.6.22.apk)
+- [Phone companion APK](https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.2.8/tv-overlay-companion-v0.2.8.apk)
 
-TV Overlay 1.6.21 SHA-256:
-`ea8d7cb960e8ebc56b8ac73e312f3080e929d3852743257a8e19d7188498384a`
+TV Overlay 1.6.22 SHA-256:
+`c7dd9088f910f2c0512cce76d8bbe095e94b4d80bb932efe2e0eb33a66bb0a17`
 
-Phone companion 0.2.7 SHA-256:
-`af7396e6f689a0588ec3ec9668a2f44841524a909bbb88c47d9e1cd326896150`
+Phone companion 0.2.8 SHA-256:
+`334d44cdc32d7e38db0c50828e10cb93b8da6d241263c16d7e63191894c67d9e`
