@@ -5,10 +5,10 @@ its native Android phone companion.
 
 - [Download page](https://daily25.github.io/tv-overlay-downloads/)
 - [Latest APK](https://github.com/daily25/tv-overlay-downloads/releases/latest/download/tv-overlay.apk)
-- [Phone companion APK](https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.2.3/tv-overlay-companion-v0.2.3.apk)
+- [Phone companion APK](https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.2.4/tv-overlay-companion-v0.2.4.apk)
 
-TV Overlay 1.6.16 SHA-256:
-`096103cc79f230ac69761bdc5471f51cfa38f63eebe511f94e7ff7b359992ac7`
+TV Overlay 1.6.17 SHA-256:
+`3b2ce8a5c3084fcba57ad9d4190d230acecdb52db873021fc23e48513528865c`
 
-Phone companion 0.2.3 SHA-256:
-`3ee95a368e43f2c7950b2582dd9713a50e28fca33c15a8d3466e7fb2a33be09a`
+Phone companion 0.2.4 SHA-256:
+`e17a8e2f442b10514b9c5fbf9c54b4526d15c116bad15067e88fa43dcb79f679`
