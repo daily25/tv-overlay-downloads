@@ -4,12 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#171a17" />
-    <meta name="description" content="Download TV Overlay for Google TV and its Android phone companion." />
+    <meta name="description" content="Download TV Sports for Google TV and Android. Follow NRL, AFL, NBL, EPL, A-League and NFL with real scores and team logos." />
     <link rel="icon" href="og.png" type="image/png" />
-    <meta property="og:title" content="TV Overlay downloads" />
-    <meta property="og:description" content="Install TV Overlay on Google TV and control it from the native Android phone companion." />
+    <meta property="og:title" content="TV Sports downloads" />
+    <meta property="og:description" content="Six leagues. Real scores. Follow your teams from the TV remote or optional Android phone companion." />
     <meta property="og:image" content="https://daily25.github.io/tv-overlay-downloads/og.png" />
-    <title>Download TV Overlay</title>
+    <title>Download TV Sports</title>
     <style>
       :root { color-scheme: light; --ink:#171a17; --muted:#687168; --paper:#f2f3ed; --card:#fbfcf7; --lime:#ccff36; }
       * { box-sizing: border-box; }
@@ -20,7 +20,7 @@
       .card { border:1px solid #d1d7cc; border-radius:28px; background:rgba(251,252,247,.95); padding:clamp(28px,6vw,52px); box-shadow:0 28px 70px rgba(33,43,34,.12); }
       .cards { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:20px; }
       .screen { position:relative; aspect-ratio:16/7; margin-bottom:34px; overflow:hidden; border:7px solid var(--ink); border-radius:20px; background:repeating-linear-gradient(90deg,#266a41 0 12.5%,#2d7448 12.5% 25%); }
-      .clock { position:absolute; top:18px; right:18px; border-radius:10px; padding:9px 12px; background:rgba(12,17,14,.9); color:white; font-weight:900; }
+      .score-bug { position:absolute; bottom:18px; right:18px; border-radius:10px; padding:9px 12px; background:rgba(12,17,14,.9); color:white; font-size:11px; font-weight:900; letter-spacing:.07em; }
       .eyebrow { color:#63705f; font-size:11px; font-weight:900; letter-spacing:.14em; text-transform:uppercase; }
       h1 { margin:13px 0 17px; font-size:clamp(42px,8vw,68px); line-height:.96; letter-spacing:-.055em; }
       h2 { margin:13px 0 17px; font-size:clamp(34px,5vw,50px); line-height:1; letter-spacing:-.045em; }
@@ -41,47 +41,47 @@
   </head>
   <body>
     <main>
-      <div class="brand"><span class="mark">TV</span><span>TV Overlay</span></div>
+      <div class="brand"><span class="mark">TV</span><span>TV Sports</span></div>
       <div class="cards">
         <section class="card">
-          <div class="screen" aria-hidden="true"><span class="clock">8:42</span></div>
-          <div class="eyebrow">Google TV test build</div>
-          <h1>Put your layer on the big screen.</h1>
-          <p class="lead">Manage AFL, NRL, EPL, A-League and NBL directly from your TV. Version 1.8.0 adds sports controls for choosing matches, adjusting layouts and broadcast delay, selecting other scores, managing score pop-ups and running sports tests. Sign in on the TV and use your remote. The phone makes changes easier and remains optional.</p>
-          <a class="button" href="https://github.com/daily25/tv-overlay-downloads/releases/download/v1.8.0/tv-overlay-1.8.0.apk">Download TV Overlay APK</a>
-          <p class="version">Version 1.8.0 &middot; 13.1 MB</p>
+          <div class="screen" aria-hidden="true"><span class="score-bug">YOUR SPORTS &middot; YOUR SCORES</span></div>
+          <div class="eyebrow">Google TV &amp; Android TV</div>
+          <h1>Your sports.<br />Your screen.</h1>
+          <p class="lead">Follow NRL, AFL, NBL, EPL, A-League and NFL with real scores and team logos. Choose whole leagues or individual games for a simple bottom-right score bug that rotates through your picks. Upcoming games show their start time; recent results stay clearly marked final. Manage layouts, team stats, score alerts and broadcast delay with your TV remote.</p>
+          <a class="button" href="https://github.com/daily25/tv-overlay-downloads/releases/download/v1.9.0/tv-overlay-1.9.0.apk">Download TV Sports APK</a>
+          <p class="version">Version 1.9.0 &middot; Build 52 &middot; 13.5 MB</p>
           <ol>
             <li>Open this page in a TV browser or Downloader app.</li>
-            <li>Download the APK and approve installation from this source.</li>
-            <li>Open TV Overlay and allow &ldquo;Display over other apps&rdquo;.</li>
+            <li>Already installed? Select Check for updates in the TV app, or install this APK over the existing app to keep your settings.</li>
+            <li>For a first install, download the APK, approve installation and allow &ldquo;Display over other apps&rdquo; in TV Sports.</li>
             <li>Open Sports controls and sign in on the TV to choose matches and adjust your sports settings.</li>
             <li>Select Start overlay in TV setup, then return to Kayo or another TV app.</li>
           </ol>
           <details>
             <summary>Verify download</summary>
-            <code>6740cf4689583df60d7a6f00f4346fbb365e5ed482cc492123c83e8a021367d9</code>
+            <code>61cad35616d83d7304a5455f349a46a17600a3dd83ae3bfce3d91020592b133d</code>
           </details>
         </section>
         <section class="card">
           <div class="eyebrow">Android phone companion</div>
           <h2>Control it from your phone.</h2>
-          <p class="lead">Choose and position TV layouts from your phone. Version 0.3.8 adds fixture filters and score pop-up controls for AFL, NRL, EPL, A-League and NBL, and keeps your league selections when saving. The separate 0&ndash;900 second pop-up delay remains available.</p>
-          <a class="button secondary" href="https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.3.8/tv-overlay-companion-v0.3.8.apk">Download Phone Companion APK</a>
-          <p class="version">Version 0.3.8 &middot; 1.0 MB</p>
+          <p class="lead">The optional companion puts all six leagues in your pocket. Follow leagues, pick individual games, preview team logos and arrange your TV overlays. The sports-only interface keeps scores, match layouts and alerts together, with separate broadcast-delay controls. You can also manage everything from the TV remote.</p>
+          <a class="button secondary" href="https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.4.0/tv-overlay-companion-v0.4.0.apk">Download Phone Companion APK</a>
+          <p class="version">Version 0.4.0 &middot; Build 20 &middot; 1.55 MB</p>
           <ol>
             <li>Open this page on your Android phone.</li>
             <li>Download the APK and install it over the existing app. Do not uninstall first.</li>
-            <li>Open TV Overlay Companion and select Connect this phone.</li>
+            <li>Open TV Sports Companion and select Connect this phone.</li>
             <li>Sign in in the browser; it will return you to the app.</li>
-            <li>Future test updates can be installed from Settings &rarr; Check for updates.</li>
+            <li>Future updates can be installed from Settings &rarr; Check for updates.</li>
           </ol>
           <details>
             <summary>Verify download</summary>
-            <code>96389bade30a5d21e5e8c5bfbb5d40b5d47c52dbec1ce77084a7d405ff84b4e1</code>
+            <code>16660e359daca3ddb2b7ae9a93de646df9bb3544a9edb28f79d99166c39d348f</code>
           </details>
         </section>
       </div>
-      <footer>Android may show a security confirmation because these private test apps are installed directly rather than through Google Play.</footer>
+      <footer>Install updates over the existing app to keep your settings. Android may ask you to approve installation because these APKs are distributed directly rather than through Google Play.</footer>
     </main>
   </body>
 </html>
