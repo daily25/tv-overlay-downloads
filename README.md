@@ -5,8 +5,8 @@ native Android phone companion. Follow NRL, AFL, NBL, EPL, A-League and NFL with
 real scores, fixtures and team logos.
 
 - [Download page](https://daily25.github.io/tv-overlay-downloads/)
-- [TV Sports 1.11.0 APK — build 59](https://github.com/daily25/tv-overlay-downloads/releases/download/v1.11.0/tv-overlay-1.11.0.apk)
-- [Phone companion 0.5.1 APK — build 23](https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.5.1/tv-overlay-companion-0.5.1.apk)
+- [TV Sports 1.11.1 APK — build 60](https://github.com/daily25/tv-overlay-downloads/releases/download/v1.11.1/tv-overlay-1.11.1.apk)
+- [Phone companion 0.5.2 APK — build 24](https://github.com/daily25/tv-overlay-downloads/releases/download/companion-v0.5.2/tv-overlay-companion-0.5.2.apk)
 
 Choose **Check for updates** in the existing TV app or in the companion's
 Settings. You can also install the matching APK above over the existing app;
@@ -18,10 +18,10 @@ live score strip sits at the top or bottom. Quiet Glass match overlays show
 team stats, clocks and crests. The phone adds light/dark themes and a clear
 save bar. Every control is also available from the TV remote.
 
-TV Sports 1.11.0 / build 59 — 14,799,911 bytes — SHA-256:
-`6f76be10967d496a793b5bc29cdbbcfd5a48bdcba9a1288163f6174e1a035af2`
+TV Sports 1.11.1 / build 60 — 14,574,033 bytes — SHA-256:
+`b06ac8aa581f700be87b212a2173b85a6b0dd2fdd2c69b38a873a7d6e42518e0`
 
-Phone companion 0.5.1 / build 23 — 2,066,675 bytes — SHA-256:
-`d2b8e8c23e77420309f0713da2c1eb734f9f51fb3131d9ae277c3a8f15c1778f`
+Phone companion 0.5.2 / build 24 — 1,834,220 bytes — SHA-256:
+`07617bb37714c66c8db5dadc0b8327323cc93fef1a139bc742ed34d708ff12dd`
 
-TV 1.11.0 is the foundation update for automatic sports display fixes. After installing it, routine changes to cards, strips and match layouts download through the service.
+TV 1.11.1 repairs phone control routing and reports actual settings reception to companion 0.5.2. Update both apps, open Sports controls > Settings > Link a phone on the TV, then enter that code under Link a TV on the phone. Wait for reception confirmation. Routine sports display updates still download automatically.
